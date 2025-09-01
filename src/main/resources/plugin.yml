@@ -1,0 +1,9 @@
+name: ExtraWorldGuardFlags
+version: '${project.version}'
+main: pl.visionprojekt.extraworldguardflags.ExtraWorldGuardFlags
+api-version: 1.18
+prefix: ExtraWGFlags
+depend: [ WorldGuard ]
+authors: [ HowanDev ]
+description: desc
+website: weblink
